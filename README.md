@@ -10,5 +10,5 @@ Dependepencies
 To run:
 
 ```python3
-python3 genki-audio.py
+python3 genki_audio.py
 ```
